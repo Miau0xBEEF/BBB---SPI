@@ -109,7 +109,6 @@ To use SPI in C, include the `spidev.h` library located at:
 ```
 
 📄 Reference: [spidev on GitHub](https://github.com/jeffegg/beaglebone/blob/master/Documentation/spi/spidev)
-[Image Source: xecor](https://www.xecor.com/blog/beaglebone-black-pinout) 
 ---
 
 ## SPI in Device Tree Overlay
@@ -168,7 +167,7 @@ rm -f main && gcc -o main main.c && sudo chmod 777 main && sudo ./main
 - `/dev/spidev0.0` is connected to pins **P9.18** and **P9.21** (SPI0)
 
 ![BeagleBone Black Pinmap](beaglebone_black_pinmap.png)
-
+[Image Source: xecor](https://www.xecor.com/blog/beaglebone-black-pinout) 
 ---
 
 ## SPI with Python (Not Tested)
