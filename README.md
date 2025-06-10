@@ -109,7 +109,7 @@ To use SPI in C, include the `spidev.h` library located at:
 ```
 
 📄 Reference: [spidev on GitHub](https://github.com/jeffegg/beaglebone/blob/master/Documentation/spi/spidev)
-
+[Image Source: xecor](https://www.xecor.com/blog/beaglebone-black-pinout) 
 ---
 
 ## SPI in Device Tree Overlay
